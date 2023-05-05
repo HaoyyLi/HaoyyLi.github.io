@@ -120,7 +120,7 @@
 
 .fa-ul {
     list-style-type: none;
-    margin-left: var(--fa-li-margin, 2.5em);
+    /* margin-left: var(--fa-li-margin, 2.5em); */
     padding-left: 0
 }
 
@@ -130,6 +130,14 @@
 
 .fa-li {
     left: calc(var(--fa-li-width, 2em)*-1);
+    position: absolute;
+    text-align: center;
+    width: var(--fa-li-width, 2em);
+    line-height: inherit
+}
+
+.fa-edu {
+    /* left: calc(var(--fa-li-width, 2em)*-1); */
     position: absolute;
     text-align: center;
     width: var(--fa-li-width, 2em);
@@ -6791,7 +6799,7 @@
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(../webfonts/fa-brands-400.woff2)format("woff2"), url(../webfonts/fa-brands-400.ttf)format("truetype")
+    src: url(../fonts/fa-brands-400.woff2)format("woff2"), url(../fonts/fa-brands-400.ttf)format("truetype")
 }
 
 .fa-brands,

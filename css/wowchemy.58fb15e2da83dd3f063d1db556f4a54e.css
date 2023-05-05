@@ -1230,6 +1230,16 @@ pre code {
         max-width: 100%
     }
 
+    .col-md-13 {
+        flex: 0 0 10%;
+        max-width: 10%
+    }
+
+    .col-md-14 {
+        flex: 10 10 80%;
+        max-width: 80%
+    }
+
     .order-md-first {
         order: -1
     }
