@@ -1,3 +1,13 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /guides/
+  - /guides.html
+---
+
 ## PWV Data
 - [Radiosonde (IGRA2)](https://www.ncei.noaa.gov/pub/data/igra/)
 
