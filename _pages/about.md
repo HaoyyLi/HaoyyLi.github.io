@@ -8,51 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
+<!-- {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 👨🏻‍🎓 About me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I received a BSc. degree in Electronics Engineering, and an MSc. degree in Computer Science from Northwest University in 2020 and 2023, respectively. I am currently a Ph.D student in Xi'an Jiaotong University, advised by Prof. Badong Chen. 
 
+My research interest includes brain encoding \& decoding, brain-computer interface (BCI), and neuroscience.
+
+# 🎓 Educations
+- *2023.09 - 2025.01 (now)*, Ph.D in Artificial Intelligence. Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University. Xi'an, China. 
+- *2020.09 - 2023.06*, MSc. in Computer Science. School of Information Science and Technology, Northwest University. Xi'an, China. 
+- *2016.09 - 2020.06*, BSc. in Electronics Engineering. School of Information Science and Technology, Northwest University. Xi'an, China. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+- *2024.12*: &nbsp;🎉 One paper is accepted by IEEE Transactions Image Processing. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- [NeuralDiffuser: Neuroscience-inspired Diffusion Guidance for fMRI Visual Reconstruction](https://arxiv.org/abs/2402.13809), **Haoyu Li**, Hao Wu\*, Badong Chen\*, IEEE Transactions on Image Processing, 2025. ``CCF-A``
+- [FMLAN: A novel framework for cross-subject and cross-session EEG emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S1746809424009704?via%3Dihub), Peng Yu, Xiaopeng He, **Haoyu Li**, Haowen Dou, Yeyu Tan, Hao Wu\*, Badong Chen\*, Biomedical Signal Processing and Control, 2024.
+- [EarSSR: Silent Speech Recognition via Earphones](https://ieeexplore.ieee.org/document/10411110), Xue Sun, Jie Xiong, Chao Feng, **Haoyu Li**, Yuli Wu, Dingyi Fang, Xiaojiang Chen, IEEE Transactions on Mobile Computing, 2024. ``CCF-A``
+- [DP-MP: a novel cross-subject fatigue detection framework with DANN-based prototypical representation and mix-up pairwise learning](https://iopscience.iop.org/article/10.1088/1741-2552/ad618a), Xiaopeng He#, **Haoyu Li**#, Peng Yu, Hao Wu\*, Badong Chen\*, Journal of Neural Engineering, 2024.
+- [Hybrid HMM Decoder for Convolutional Codes by Joint Trellis-Like Structure and Channel Prior](https://ieeexplore.ieee.org/document/9943994), **Haoyu Li**, Xuan Wang, Tong Liu, Dingyi Fang\*, Baoying Liu, IEEE Transactions on Cognitive Communications and Networking, 2022.
+- [AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication](https://ieeexplore.ieee.org/document/9863663), Xuan Wang, Xin Kou, **Haoyu Li**, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen, IEEE Internet of Things Journal, 2022.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
