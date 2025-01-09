@@ -25,7 +25,7 @@ main:
   #   url: "/#-internships"
 
   - title: "CV"
-  url: /cv/
+    url: /cv/
 
   - title: "Guides"
     url: /guides/
