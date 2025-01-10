@@ -4,28 +4,25 @@ main:
     url: /
 
   - title: "关于我"
-    url: "/zh/#-about-me"
+    url: "/zhs/#-about-me-zh"
 
   - title: "教育经历"
-    url: "/zh/#-教育经历"
+    url: "/zhs/#-edu-zh"
 
   - title: "近期进展"
-    url: "/zh/#-近期进展"
+    url: "/zhs/#-news-zh"
 
   - title: "论文发表"
-    url: "/zh/#-论文发表"
+    url: "/zhs/#-pubs-zh"
 
   # - title: "荣誉奖项"
-  #   url: "/zh/#-荣誉奖项"
+  #   url: "/zhs/#-荣誉奖项"
 
   # - title: "特邀报告"
-  #   url: "/zh/#-特邀报告"
+  #   url: "/zhs/#-特邀报告"
 
   # - title: "社会兼职"
-  #   url: "/zh/#-社会兼职"
+  #   url: "/zhs/#-社会兼职"
 
   - title: "CV"
     url: /cv/
-
-  - title: "Guides"
-    url: /guides/
