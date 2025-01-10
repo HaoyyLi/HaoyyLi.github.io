@@ -16,7 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<span class='anchor' id='-about-me'></span>
+<span class='anchor' id='-关于我'></span>
 
 # 👨🏻‍🎓 关于我
 
@@ -29,7 +29,7 @@ My research interest includes brain encoding \& decoding, brain-computer interfa
 - *2020.09 - 2023.06*, MSc. in Computer Science. School of Information Science and Technology, Northwest University. Xi'an, China. 
 - *2016.09 - 2020.06*, BSc. in Electronics Engineering. School of Information Science and Technology, Northwest University. Xi'an, China. 
 
-# 🔥 近期热点
+# 🔥 近期进展
 
 - *2024.12*: &nbsp;🎉 One paper is accepted by IEEE Transactions Image Processing. 
 
