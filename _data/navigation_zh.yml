@@ -1,25 +1,28 @@
 # main links links
 main:
+  - title: "English Profile"
+    url: /
+
   - title: "关于我"
     url: "/zh/#about-me"
 
   - title: "教育经历"
-    url: "/zh/#-educations"
+    url: "/zh/#-教育经历"
 
   - title: "近期进展"
-    url: "/zh/#-news"
+    url: "/zh/#-近期进展"
 
   - title: "论文发表"
-    url: "/zh/#-publications"
+    url: "/zh/#-论文发表"
 
   # - title: "荣誉奖项"
-  #   url: "/zh/#-honors-and-awards"
+  #   url: "/zh/#-荣誉奖项"
 
   # - title: "特邀报告"
-  #   url: "/zh/#-invited-talks"
+  #   url: "/zh/#-特邀报告"
 
   # - title: "社会兼职"
-  #   url: "/zh/#-internships"
+  #   url: "/zh/#-社会兼职"
 
   - title: "CV"
     url: /cv/
