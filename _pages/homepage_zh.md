@@ -1,5 +1,5 @@
 ---
-permalink: zh/
+permalink: /zh/
 title: ""
 excerpt: ""
 layout: default_zh
