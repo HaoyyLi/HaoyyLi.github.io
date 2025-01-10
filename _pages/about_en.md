@@ -5,8 +5,11 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
+  - /zh/
   - /about/
+  - /about_en/
   - /about.html
+  - /about_en.html
 ---
 
 <!-- {% if site.google_scholar_stats_use_cdn %}
