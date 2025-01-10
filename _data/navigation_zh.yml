@@ -7,10 +7,10 @@ main:
     url: "/zh/#-about-me"
 
   - title: "教育经历"
-    url: "/zh/#-教育经历"
+    url: "/zh/#-educations"
 
   - title: "近期进展"
-    url: "/zh/#-近期进展"
+    url: "/zh/#-news"
 
   - title: "论文发表"
     url: "/zh/#-论文发表"

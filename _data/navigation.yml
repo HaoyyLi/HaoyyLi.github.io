@@ -4,7 +4,7 @@ main:
     url: /zh
 
   - title: "About Me"
-    url: "/#about-me"
+    url: "/#-about-me"
 
   - title: "Educations"
     url: "/#-educations"
