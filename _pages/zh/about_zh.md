@@ -1,6 +1,6 @@
 ---
 layout: default_zh
-permalink: /zh/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
@@ -28,14 +28,10 @@ I received a BSc. degree in Electronics Engineering, and an MSc. degree in Compu
 
 My research interest includes brain encoding \& decoding, brain-computer interface (BCI), and neuroscience.
 
-<span class='anchor' id='-educations'></span>
-
 # 🎓 教育经历
 - *2023.09 - 2025.01 (now)*, Ph.D in Artificial Intelligence. Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University. Xi'an, China. 
 - *2020.09 - 2023.06*, MSc. in Computer Science. School of Information Science and Technology, Northwest University. Xi'an, China. 
 - *2016.09 - 2020.06*, BSc. in Electronics Engineering. School of Information Science and Technology, Northwest University. Xi'an, China. 
-
-<span class='anchor' id='-news'></span>
 
 # 🔥 近期进展
 
