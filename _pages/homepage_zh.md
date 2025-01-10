@@ -6,10 +6,8 @@ layout: default_zh
 author_profile: true
 redirect_from: 
   - /zh/
-  - /about/
   - /about_zh/
   - /zh.html
-  - /about.html
   - /about_zh.html
 ---
 
