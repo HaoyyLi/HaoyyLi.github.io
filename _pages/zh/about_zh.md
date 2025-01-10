@@ -1,6 +1,6 @@
 ---
 layout: default_zh
-permalink: /
+permalink: zh/
 title: ""
 excerpt: ""
 author_profile: true
