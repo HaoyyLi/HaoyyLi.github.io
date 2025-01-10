@@ -1,4 +1,5 @@
 ---
+layout: default_zh
 permalink: /zh/
 title: ""
 excerpt: ""
