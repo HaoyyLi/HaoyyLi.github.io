@@ -4,7 +4,7 @@ main:
     url: /
 
   - title: "关于我"
-    url: "/zh/#about-me"
+    url: "/zh/#-about-me"
 
   - title: "教育经历"
     url: "/zh/#-教育经历"
