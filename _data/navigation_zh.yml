@@ -4,16 +4,16 @@ main:
     url: /
 
   - title: "关于我"
-    url: "/zh/#-about-me"
+    url: "/#-about-me-zh"
 
   - title: "教育经历"
-    url: "/zh/#-教育经历"
+    url: "/#-教育经历"
 
   - title: "近期进展"
-    url: "/zh/#-近期进展"
+    url: "/#-近期进展"
 
   - title: "论文发表"
-    url: "/zh/#-论文发表"
+    url: "/#-论文发表"
 
   # - title: "荣誉奖项"
   #   url: "/zh/#-荣誉奖项"

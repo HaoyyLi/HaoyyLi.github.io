@@ -5,10 +5,7 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
   - /about_zh/
-  - /zh.html
-  - /about.html
   - /about_zh.html
 ---
 
@@ -19,7 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<span class='anchor' id='-about-me'></span>
+<span class='anchor' id='-about-me-zh'></span>
 
 # 👨🏻‍🎓 关于我
 
