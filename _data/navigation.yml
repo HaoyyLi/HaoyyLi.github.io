@@ -4,16 +4,16 @@ main:
     url: /zh
 
   - title: "About Me"
-    url: "/#-about-me"
+    url: "/en/#-about-me"
 
   - title: "Educations"
-    url: "/#-educations"
+    url: "/en/#-educations"
 
   - title: "News"
-    url: "/#-news"
+    url: "/en/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/en/#-publications"
 
   # - title: "Honors and Awards"
   #   url: "/#-honors-and-awards"
