@@ -5,9 +5,7 @@ excerpt: ""
 layout: default_zh
 author_profile: true
 redirect_from: 
-  - /zh/
   - /about_zh/
-  - /zh.html
   - /about_zh.html
 ---
 

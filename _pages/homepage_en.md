@@ -11,7 +11,7 @@ redirect_from:
   - /about_en.html
 ---
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='-about-me'></span>
 {% include_relative includes/en/intro.md %}
 
 {% include_relative includes/en/educations.md %}
