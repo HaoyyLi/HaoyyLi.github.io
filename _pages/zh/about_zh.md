@@ -1,11 +1,10 @@
 ---
 layout: default_zh
-permalink: zh/
+permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /zh/
   - /about/
   - /about_zh/
   - /zh.html
@@ -24,18 +23,16 @@ redirect_from:
 
 # 👨🏻‍🎓 关于我
 
-I received a BSc. degree in Electronics Engineering, and an MSc. degree in Computer Science from Northwest University in 2020 and 2023, respectively. I am currently a Ph.D student in Xi'an Jiaotong University, advised by Prof. Badong Chen. 
-
-My research interest includes brain encoding \& decoding, brain-computer interface (BCI), and neuroscience.
+我分别于2020年和2023年获得西北大学电子工程学士学位和计算机科学硕士学位。我目前是西安交通大学的博士生，指导老师是陈霸东教授。我的研究兴趣包括大脑编码和解码、脑机接口(BCI)和神经科学。
 
 # 🎓 教育经历
-- *2023.09 - 2025.01 (now)*, Ph.D in Artificial Intelligence. Institute of Artificial Intelligence and Robotics, Xi'an Jiaotong University. Xi'an, China. 
-- *2020.09 - 2023.06*, MSc. in Computer Science. School of Information Science and Technology, Northwest University. Xi'an, China. 
-- *2016.09 - 2020.06*, BSc. in Electronics Engineering. School of Information Science and Technology, Northwest University. Xi'an, China. 
+- *2023.09 - 2025.01 (至今)* - 在读博士 - 人工智能 - 西安交通大学·人工智能与机器人研究所, 中国·西安. 
+- *2020.09 - 2023.06* - 硕士 - 计算机应用技术 - 西北大学·信息科学与技术学院, 中国·西安. 
+- *2016.09 - 2020.06* - 本科 - 电子科学与技术 - 西北大学·信息科学与技术学院, 中国·西安. 
 
 # 🔥 近期进展
 
-- *2024.12*: &nbsp;🎉 One paper is accepted by IEEE Transactions Image Processing. 
+- *2024.12*: &nbsp;🎉 一篇论文被IEEE Transactions Image Processing期刊接收. 
 
 # 📝 论文发表 
 
