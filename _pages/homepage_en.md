@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: ""
-layout: default
 excerpt: ""
+layout: default
 author_profile: true
 redirect_from: 
   - /about/
