@@ -1,12 +1,12 @@
 ---
 layout: default_zh
-permalink: /zh/
+permalink: /
 title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /about_zh/
+  - /about_zh.html
 ---
 
 <!-- {% if site.google_scholar_stats_use_cdn %}
