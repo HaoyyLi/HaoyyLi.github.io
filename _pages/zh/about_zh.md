@@ -1,6 +1,6 @@
 ---
 layout: default_zh
-permalink: /
+permalink: /zh/
 title: ""
 excerpt: ""
 author_profile: true
@@ -16,7 +16,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %} -->
 
-<span class='anchor' id='-关于我'></span>
+<span class='anchor' id='-about-me'></span>
 
 # 👨🏻‍🎓 关于我
 
