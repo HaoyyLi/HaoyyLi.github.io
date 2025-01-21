@@ -24,9 +24,9 @@ My research interest includes Machine Learning, Neural Decoding, and Brain Compu
 
 ## Publications 
 
-- NeuralDiffuser: Neuroscience-inspired Diffusion Guidance for fMRI Visual Reconstruction, **Haoyu Li**, Hao Wu\*, Badong Chen\*, IEEE Transactions on Image Processing, 2025. ``CCF-A``
-- FMLAN: A novel framework for cross-subject and cross-session EEG emotion recognition, Peng Yu, Xiaopeng He, **Haoyu Li**, Haowen Dou, Yeyu Tan, Hao Wu\*, Badong Chen\*, Biomedical Signal Processing and Control, 2024.
-- EarSSR: Silent Speech Recognition via Earphones, Xue Sun, Jie Xiong, Chao Feng, **Haoyu Li**, Yuli Wu, Dingyi Fang, Xiaojiang Chen, IEEE Transactions on Mobile Computing, 2024. ``CCF-A``
-- DP-MP: a novel cross-subject fatigue detection framework with DANN-based prototypical representation and mix-up pairwise learning, Xiaopeng He#, **Haoyu Li**#, Peng Yu, Hao Wu\*, Badong Chen\*, Journal of Neural Engineering, 2024.
-- Hybrid HMM Decoder for Convolutional Codes by Joint Trellis-Like Structure and Channel Prior, **Haoyu Li**, Xuan Wang, Tong Liu, Dingyi Fang\*, Baoying Liu, IEEE Transactions on Cognitive Communications and Networking, 2022.
-- AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication, Xuan Wang, Xin Kou, **Haoyu Li**, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen, IEEE Internet of Things Journal, 2022.
+- **Haoyu Li**, Hao Wu\*, Badong Chen\*, NeuralDiffuser: Neuroscience-inspired Diffusion Guidance for fMRI Visual Reconstruction, IEEE Transactions on Image Processing, 2025. `CCF-A` `SCI-1` `IF=10.8`
+- Peng Yu, Xiaopeng He, **Haoyu Li**, Haowen Dou, Yeyu Tan, Hao Wu\*, Badong Chen\*, FMLAN: A novel framework for cross-subject and cross-session EEG emotion recognition, Biomedical Signal Processing and Control, 2024. `SCI-2` `IF=4.9`
+- Xue Sun, Jie Xiong, Chao Feng, **Haoyu Li**, Yuli Wu, Dingyi Fang, Xiaojiang Chen, EarSSR: Silent Speech Recognition via Earphones, IEEE Transactions on Mobile Computing, 2024. `CCF-A` `SCI-2` `IF=7.7`
+- Xiaopeng He#, **Haoyu Li**#, Peng Yu, Hao Wu\*, Badong Chen\*, DP-MP: a novel cross-subject fatigue detection framework with DANN-based prototypical representation and mix-up pairwise learning, Journal of Neural Engineering, 2024. `SCI-3` `IF=3.7`
+- **Haoyu Li**, Xuan Wang, Tong Liu, Dingyi Fang\*, Baoying Liu, Hybrid HMM Decoder for Convolutional Codes by Joint Trellis-Like Structure and Channel Prior, IEEE Transactions on Cognitive Communications and Networking, 2022. `SCI-1` `IF=7.4`
+- Xuan Wang, Xin Kou, **Haoyu Li**, Fuwei Wang, Dingyi Fang, Yunfei Ma, Xiaojiang Chen, AllSpark: Enabling Long-Range Backscatter for Vehicle-to-Infrastructure Communication, IEEE Internet of Things Journal, 2022. `SCI-1` `IF=8.2`
