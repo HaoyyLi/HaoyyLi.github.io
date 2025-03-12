@@ -25,7 +25,7 @@ redirect_from:
 
 # 🔥 近期进展
 
-- *2024.12*: &nbsp;🎉 一篇论文被IEEE Transactions Image Processing期刊接收. 
+- *2024.12*: &nbsp;🎉 一篇论文被IEEE Transactions on Image Processing期刊接收. 
 
 <span class='anchor' id='-pubs-zh'></span>
 

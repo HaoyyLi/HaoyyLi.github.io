@@ -29,7 +29,7 @@ My research interest includes Machine Learning, Neural Decoding, and Brain Compu
 
 # 🔥 News
 
-- *2024.12*: &nbsp;🎉 One paper is accepted by IEEE Transactions Image Processing. 
+- *2024.12*: &nbsp;🎉 One paper is accepted by IEEE Transactions on Image Processing. 
 
 # 📝 Publications 
 
