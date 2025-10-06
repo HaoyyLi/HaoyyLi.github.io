@@ -37,7 +37,7 @@ My research interest includes Machine Learning, Neural Decoding, and Brain Compu
 
 - [FMLAN: A novel framework for cross-subject and cross-session EEG emotion recognition](https://www.sciencedirect.com/science/article/abs/pii/S1746809424009704?via%3Dihub), Peng Yu, Xiaopeng He, **Haoyu Li**, Haowen Dou, Yeyu Tan, Hao Wu\*, Badong Chen\*, Biomedical Signal Processing and Control, 2024. <!-- ![Static Badge](https://img.shields.io/badge/SCI-2-yellow)-->
 
-- [EarSSR: Silent Speech Recognition via Earphones](https://ieeexplore.ieee.org/document/10411110), Xue Sun, Jie Xiong, Chao Feng, **Haoyu Li**, Yuli Wu, Dingyi Fang, Xiaojiang Chen, IEEE Transactions on Mobile Computing, 2024. ![Static Badge](https://img.shields.io/badge/SCI-2-yellow) <!-- ![Static Badge](https://img.shields.io/badge/CCF-A-blueviolet)-->
+- [EarSSR: Silent Speech Recognition via Earphones](https://ieeexplore.ieee.org/document/10411110), Xue Sun, Jie Xiong, Chao Feng, **Haoyu Li**, Yuli Wu, Dingyi Fang, Xiaojiang Chen, IEEE Transactions on Mobile Computing, 2024. <!-- ![Static Badge](https://img.shields.io/badge/SCI-2-yellow) ![Static Badge](https://img.shields.io/badge/CCF-A-blueviolet)-->
 
 - [DP-MP: a novel cross-subject fatigue detection framework with DANN-based prototypical representation and mix-up pairwise learning](https://iopscience.iop.org/article/10.1088/1741-2552/ad618a), Xiaopeng He†, **Haoyu Li†**, Peng Yu, Hao Wu\*, Badong Chen\*, Journal of Neural Engineering, 2024. <!-- ![Static Badge](https://img.shields.io/badge/SCI-3-green)-->
 
